@@ -1,0 +1,21 @@
+{
+  "name": "@simplr-wc/router-preact-middleware",
+  "version": "1.0.0",
+  "description": "A Middleware for Simplr Router to enable Preact support.",
+  "main": "preact-middleware.js",
+  "dependencies": {
+    "preact": "^10.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simplr/simplr-router-react-middleware"
+  },
+  "author": "Matsuuu <huhta.matias@gmail.com> (https://matsu.fi/)",
+  "license": "ISC"
+}
