@@ -16,7 +16,7 @@ import Header from "./header";
 import Home from "../routes/home";
 import Profile from "../routes/profile";
 import SimplrRouter from "@simplr-wc/router";
-import SimplrRouterPreactMiddleware from "./preact-middleware";
+import SimplrRouterPreactMiddleware from "@simplr-wc/router-preact-middleware";
 
 const routes = [
   {
